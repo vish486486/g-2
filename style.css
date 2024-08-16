@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+.whole-website {
+  overflow: hidden;
+}
+
 *::before,
 *::after {
   box-sizing: border-box;
